@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": "EMP-001",
+      "name": "John Doe",
+      "email": "john.doe@northstar.io",
+      "role": "Senior Developer",
+      "department": "Engineering",
+      "exitDate": "2026-09-06",
+      "status": "Pending",
+      "systems": [],
+      "exception": false,
+      "phase": 0,
+      "createdAt": "2026-09-06, 09:00:00"
+    }
+  ],
+  "reports": [],
+  "activities": [
+    { "id": "seed-1", "type": "SYSTEM", "text": "Offboarding agent initialized and ready", "time": "09:00:00" },
+    { "id": "seed-2", "type": "SYSTEM", "text": "Six simulated enterprise adapters connected", "time": "09:00:01" }
+  ]
+}
